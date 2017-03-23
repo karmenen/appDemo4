@@ -1,0 +1,7 @@
+public Class ClaseA{
+Private int x;
+
+public ClaseA(){
+X=0;
+  }
+}
