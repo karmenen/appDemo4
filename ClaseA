@@ -1,7 +1,9 @@
 public Class ClaseA{
-Private int x;
+Private double x;
+private string y;
 
 public ClaseA(){
-X=0;
+X=0.0;
+y="";
   }
 }
